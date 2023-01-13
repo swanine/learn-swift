@@ -1,7 +1,14 @@
-//: [Previous](@previous)
+//单行注释
 
-import Foundation
+/*
+ 
+ 多行注释
+ 多行注释
+ 多行注释
+ 
+ markup语法
+ : 开启
+ 
+ */
 
-var greeting = "Hello, playground"
-
-//: [Next](@next)
+//: # 一级标题

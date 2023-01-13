@@ -1,5 +1,17 @@
-import UIKit
+//常量 使用前必须赋值一次
 
-var greeting = "Hello, playground"
+let message = "hello, swift!"
 
-print(greeting)
+//message = "s"
+
+let age: Int
+
+//age = 26
+
+func getAge() -> Int {
+    return 10
+}
+
+age = getAge()
+
+print(age)
